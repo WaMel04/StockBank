@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StockBank:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StockBank_jar</output-path>
+    <root id="archive" name="StockBank.jar">
+      <element id="module-output" name="StockBank" />
+    </root>
+  </artifact>
+</component>
